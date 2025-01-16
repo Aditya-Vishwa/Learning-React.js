@@ -1,6 +1,3 @@
-# Learning React.js
- Learning React from Namaste React By Akshay Saini
-
 # _Episode 01 - Inception_
 
 ## Ques): What is `Emmet`?
