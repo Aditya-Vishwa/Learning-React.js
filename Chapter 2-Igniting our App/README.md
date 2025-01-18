@@ -1,4 +1,4 @@
-# _Episode 02 - Igniting our App_
+# Igniting our App_
 
 
 ## Ques): What is `NPM`?
