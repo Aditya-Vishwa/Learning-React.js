@@ -31,7 +31,7 @@ export default function App() {
 **Ans:** If we do `console.log(useState())`, we get an array `[undefined, function]` where first item in an array is `state` is `undefined` and the second item in an array is `setState` `function` is bound dispatchSetState.
 
 
-## Ques): How will `useEffect` behave if we `don't add` a `dependency array`?
+## Ques): How will `useEffect` behave if we don't add a `dependency array`?
 **Ans:** Syntax of `useEffect` is:
 ```js
 useEffect(() => {}, []);
